@@ -1,0 +1,1635 @@
+{
+    "data": [
+      {
+        "id": "0",
+        "title": "Sports",
+        "image_path": "assets/images/basketball.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "Which country won the FIFA World Cup in 2018?",
+            "options": [
+              { "option_id": "1", "option_text": "France" },
+              { "option_id": "2", "option_text": "Croatia" },
+              { "option_id": "3", "option_text": "Brazil" },
+              { "option_id": "4", "option_text": "Germany" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "2",
+            "question_text": "Who holds the record for the most goals in a single Premier League season?",
+            "options": [
+              { "option_id": "1", "option_text": "Thierry Henry" },
+              { "option_id": "2", "option_text": "Cristiano Ronaldo" },
+              { "option_id": "3", "option_text": "Alan Shearer" },
+              { "option_id": "4", "option_text": "Mohamed Salah" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "3",
+            "question_text": "Which country has won the most Olympic medals in total?",
+            "options": [
+              { "option_id": "1", "option_text": "United States" },
+              { "option_id": "2", "option_text": "Soviet Union" },
+              { "option_id": "3", "option_text": "Germany" },
+              { "option_id": "4", "option_text": "Great Britain" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "4",
+            "question_text": "In which sport is the term 'home run' used?",
+            "options": [
+              { "option_id": "1", "option_text": "Cricket" },
+              { "option_id": "2", "option_text": "Baseball" },
+              { "option_id": "3", "option_text": "Soccer" },
+              { "option_id": "4", "option_text": "Tennis" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "5",
+            "question_text": "Who has won the most NBA championships as a player?",
+            "options": [
+              { "option_id": "1", "option_text": "Michael Jordan" },
+              { "option_id": "2", "option_text": "Kobe Bryant" },
+              { "option_id": "3", "option_text": "Bill Russell" },
+              { "option_id": "4", "option_text": "LeBron James" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "6",
+            "question_text": "Which country is known as the 'All Blacks' in rugby?",
+            "options": [
+              { "option_id": "1", "option_text": "Australia" },
+              { "option_id": "2", "option_text": "New Zealand" },
+              { "option_id": "3", "option_text": "South Africa" },
+              { "option_id": "4", "option_text": "England" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "7",
+            "question_text": "Which tennis player has won the most Grand Slam titles?",
+            "options": [
+              { "option_id": "1", "option_text": "Roger Federer" },
+              { "option_id": "2", "option_text": "Rafael Nadal" },
+              { "option_id": "3", "option_text": "Novak Djokovic" },
+              { "option_id": "4", "option_text": "Serena Williams" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "8",
+            "question_text": "In which sport would you perform a 'slam dunk'?",
+            "options": [
+              { "option_id": "1", "option_text": "Volleyball" },
+              { "option_id": "2", "option_text": "Basketball" },
+              { "option_id": "3", "option_text": "Handball" },
+              { "option_id": "4", "option_text": "Rugby" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "9",
+            "question_text": "Which country won the first ever FIFA World Cup in 1930?",
+            "options": [
+              { "option_id": "1", "option_text": "Argentina" },
+              { "option_id": "2", "option_text": "Brazil" },
+              { "option_id": "3", "option_text": "Uruguay" },
+              { "option_id": "4", "option_text": "Italy" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "10",
+            "question_text": "What is the maximum score in a single game of ten-pin bowling?",
+            "options": [
+              { "option_id": "1", "option_text": "200" },
+              { "option_id": "2", "option_text": "250" },
+              { "option_id": "3", "option_text": "300" },
+              { "option_id": "4", "option_text": "350" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "11",
+            "question_text": "Which athlete is known as 'The Lightning Bolt'?",
+            "options": [
+              { "option_id": "1", "option_text": "Michael Phelps" },
+              { "option_id": "2", "option_text": "Usain Bolt" },
+              { "option_id": "3", "option_text": "Carl Lewis" },
+              { "option_id": "4", "option_text": "Mo Farah" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "12",
+            "question_text": "Which country has won the most Cricket World Cups?",
+            "options": [
+              { "option_id": "1", "option_text": "India" },
+              { "option_id": "2", "option_text": "West Indies" },
+              { "option_id": "3", "option_text": "Australia" },
+              { "option_id": "4", "option_text": "England" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "13",
+            "question_text": "In which sport is the term 'birdie' used?",
+            "options": [
+              { "option_id": "1", "option_text": "Golf" },
+              { "option_id": "2", "option_text": "Badminton" },
+              { "option_id": "3", "option_text": "Squash" },
+              { "option_id": "4", "option_text": "Tennis" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "14",
+            "question_text": "Who is known as the 'King of Clay' in tennis?",
+            "options": [
+              { "option_id": "1", "option_text": "Roger Federer" },
+              { "option_id": "2", "option_text": "Rafael Nadal" },
+              { "option_id": "3", "option_text": "Novak Djokovic" },
+              { "option_id": "4", "option_text": "Andy Murray" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "15",
+            "question_text": "Which sport is associated with the terms 'try' and 'conversion'?",
+            "options": [
+              { "option_id": "1", "option_text": "Soccer" },
+              { "option_id": "2", "option_text": "American Football" },
+              { "option_id": "3", "option_text": "Rugby" },
+              { "option_id": "4", "option_text": "Basketball" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "16",
+            "question_text": "Which female tennis player has won the most Grand Slam titles?",
+            "options": [
+              { "option_id": "1", "option_text": "Serena Williams" },
+              { "option_id": "2", "option_text": "Steffi Graf" },
+              { "option_id": "3", "option_text": "Martina Navratilova" },
+              { "option_id": "4", "option_text": "Margaret Court" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "17",
+            "question_text": "Which country has hosted the Summer Olympics the most times?",
+            "options": [
+              { "option_id": "1", "option_text": "United States" },
+              { "option_id": "2", "option_text": "United Kingdom" },
+              { "option_id": "3", "option_text": "France" },
+              { "option_id": "4", "option_text": "Japan" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "18",
+            "question_text": "In which sport is the 'Stanley Cup' awarded?",
+            "options": [
+              { "option_id": "1", "option_text": "Basketball" },
+              { "option_id": "2", "option_text": "Ice Hockey" },
+              { "option_id": "3", "option_text": "Baseball" },
+              { "option_id": "4", "option_text": "Soccer" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "19",
+            "question_text": "Which country is famous for inventing the sport of cricket?",
+            "options": [
+              { "option_id": "1", "option_text": "Australia" },
+              { "option_id": "2", "option_text": "India" },
+              { "option_id": "3", "option_text": "South Africa" },
+              { "option_id": "4", "option_text": "England" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "20",
+            "question_text": "Who is the highest-scoring player in NBA history?",
+            "options": [
+              { "option_id": "1", "option_text": "Michael Jordan" },
+              { "option_id": "2", "option_text": "LeBron James" },
+              { "option_id": "3", "option_text": "Kareem Abdul-Jabbar" },
+              { "option_id": "4", "option_text": "Kobe Bryant" }
+            ],
+            "correct_option_id": "3"
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "title": "Chemistry",
+        "image_path": "assets/images/science.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "What is the chemical symbol for gold?",
+            "options": [
+              { "option_id": "1", "option_text": "Au" },
+              { "option_id": "2", "option_text": "Ag" },
+              { "option_id": "3", "option_text": "Pb" },
+              { "option_id": "4", "option_text": "Fe" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "2",
+            "question_text": "Which gas is produced when an acid reacts with a carbonate?",
+            "options": [
+              { "option_id": "1", "option_text": "Oxygen" },
+              { "option_id": "2", "option_text": "Hydrogen" },
+              { "option_id": "3", "option_text": "Carbon Dioxide" },
+              { "option_id": "4", "option_text": "Nitrogen" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "3",
+            "question_text": "What is the pH of pure water at 25°C?",
+            "options": [
+              { "option_id": "1", "option_text": "7" },
+              { "option_id": "2", "option_text": "0" },
+              { "option_id": "3", "option_text": "14" },
+              { "option_id": "4", "option_text": "10" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "4",
+            "question_text": "Which of the following is a noble gas?",
+            "options": [
+              { "option_id": "1", "option_text": "Oxygen" },
+              { "option_id": "2", "option_text": "Helium" },
+              { "option_id": "3", "option_text": "Nitrogen" },
+              { "option_id": "4", "option_text": "Hydrogen" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "5",
+            "question_text": "What is the main component of natural gas?",
+            "options": [
+              { "option_id": "1", "option_text": "Ethane" },
+              { "option_id": "2", "option_text": "Propane" },
+              { "option_id": "3", "option_text": "Methane" },
+              { "option_id": "4", "option_text": "Butane" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "6",
+            "question_text": "What is the chemical formula for table salt?",
+            "options": [
+              { "option_id": "1", "option_text": "NaCl" },
+              { "option_id": "2", "option_text": "KCl" },
+              { "option_id": "3", "option_text": "CaCl2" },
+              { "option_id": "4", "option_text": "MgCl2" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "7",
+            "question_text": "Which element has the atomic number 1?",
+            "options": [
+              { "option_id": "1", "option_text": "Helium" },
+              { "option_id": "2", "option_text": "Hydrogen" },
+              { "option_id": "3", "option_text": "Lithium" },
+              { "option_id": "4", "option_text": "Beryllium" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "8",
+            "question_text": "What is the process of a solid turning directly into gas called?",
+            "options": [
+              { "option_id": "1", "option_text": "Condensation" },
+              { "option_id": "2", "option_text": "Sublimation" },
+              { "option_id": "3", "option_text": "Evaporation" },
+              { "option_id": "4", "option_text": "Deposition" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "9",
+            "question_text": "Which of the following is an alkali metal?",
+            "options": [
+              { "option_id": "1", "option_text": "Calcium" },
+              { "option_id": "2", "option_text": "Potassium" },
+              { "option_id": "3", "option_text": "Magnesium" },
+              { "option_id": "4", "option_text": "Barium" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "10",
+            "question_text": "What is the main product of the combustion of hydrocarbons?",
+            "options": [
+              { "option_id": "1", "option_text": "Ozone" },
+              { "option_id": "2", "option_text": "Water" },
+              { "option_id": "3", "option_text": "Carbon Dioxide" },
+              { "option_id": "4", "option_text": "Nitrogen" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "11",
+            "question_text": "What is the term for the amount of energy needed to start a chemical reaction?",
+            "options": [
+              { "option_id": "1", "option_text": "Activation Energy" },
+              { "option_id": "2", "option_text": "Enthalpy" },
+              { "option_id": "3", "option_text": "Entropy" },
+              { "option_id": "4", "option_text": "Gibbs Free Energy" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "12",
+            "question_text": "Which of the following is a strong acid?",
+            "options": [
+              { "option_id": "1", "option_text": "Acetic Acid" },
+              { "option_id": "2", "option_text": "Hydrochloric Acid" },
+              { "option_id": "3", "option_text": "Citric Acid" },
+              { "option_id": "4", "option_text": "Formic Acid" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "13",
+            "question_text": "What is the main gas responsible for global warming?",
+            "options": [
+              { "option_id": "1", "option_text": "Oxygen" },
+              { "option_id": "2", "option_text": "Carbon Dioxide" },
+              { "option_id": "3", "option_text": "Nitrogen" },
+              { "option_id": "4", "option_text": "Methane" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "14",
+            "question_text": "What is the chemical formula for water?",
+            "options": [
+              { "option_id": "1", "option_text": "H2O" },
+              { "option_id": "2", "option_text": "CO2" },
+              { "option_id": "3", "option_text": "O2" },
+              { "option_id": "4", "option_text": "H2O2" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "15",
+            "question_text": "Which of the following is a property of metals?",
+            "options": [
+              { "option_id": "1", "option_text": "Brittle" },
+              { "option_id": "2", "option_text": "Good Conductors of Heat" },
+              { "option_id": "3", "option_text": "Dull" },
+              {
+                "option_id": "4",
+                "option_text": "Poor Conductors of Electricity"
+              }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "16",
+            "question_text": "What type of bond involves the sharing of electron pairs between atoms?",
+            "options": [
+              { "option_id": "1", "option_text": "Ionic Bond" },
+              { "option_id": "2", "option_text": "Covalent Bond" },
+              { "option_id": "3", "option_text": "Metallic Bond" },
+              { "option_id": "4", "option_text": "Hydrogen Bond" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "17",
+            "question_text": "Which of the following is a diatomic molecule?",
+            "options": [
+              { "option_id": "1", "option_text": "Ozone" },
+              { "option_id": "2", "option_text": "Carbon Dioxide" },
+              { "option_id": "3", "option_text": "Hydrogen" },
+              { "option_id": "4", "option_text": "Methane" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "18",
+            "question_text": "What is the main purpose of a catalyst in a chemical reaction?",
+            "options": [
+              { "option_id": "1", "option_text": "Increase the Temperature" },
+              { "option_id": "2", "option_text": "Lower the Activation Energy" },
+              { "option_id": "3", "option_text": "Increase the Pressure" },
+              { "option_id": "4", "option_text": "Change the Products" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "19",
+            "question_text": "Which of the following is a characteristic of acids?",
+            "options": [
+              { "option_id": "1", "option_text": "Bitter Taste" },
+              { "option_id": "2", "option_text": "Sour Taste" },
+              { "option_id": "3", "option_text": "Slippery Feel" },
+              { "option_id": "4", "option_text": "Conduct Electricity" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "20",
+            "question_text": "What is the process of a liquid turning into a gas called?",
+            "options": [
+              { "option_id": "1", "option_text": "Condensation" },
+              { "option_id": "2", "option_text": "Evaporation" },
+              { "option_id": "3", "option_text": "Sublimation" },
+              { "option_id": "4", "option_text": "Freezing" }
+            ],
+            "correct_option_id": "2"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Math",
+        "image_path": "assets/images/maths.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "What is the value of 5 + 3 × 2?",
+            "options": [
+              { "option_id": "1", "option_text": "16" },
+              { "option_id": "2", "option_text": "11" },
+              { "option_id": "3", "option_text": "8" },
+              { "option_id": "4", "option_text": "13" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "2",
+            "question_text": "Simplify the expression: (4 + 3) × (2 - 1)",
+            "options": [
+              { "option_id": "1", "option_text": "7" },
+              { "option_id": "2", "option_text": "14" },
+              { "option_id": "3", "option_text": "21" },
+              { "option_id": "4", "option_text": "28" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "3",
+            "question_text": "What is the square root of 144?",
+            "options": [
+              { "option_id": "1", "option_text": "12" },
+              { "option_id": "2", "option_text": "16" },
+              { "option_id": "3", "option_text": "18" },
+              { "option_id": "4", "option_text": "24" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "4",
+            "question_text": "Simplify the expression: 2^3 × 2^4",
+            "options": [
+              { "option_id": "1", "option_text": "2^7" },
+              { "option_id": "2", "option_text": "2^11" },
+              { "option_id": "3", "option_text": "2^12" },
+              { "option_id": "4", "option_text": "2^15" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "5",
+            "question_text": "What is the value of 10% of 200?",
+            "options": [
+              { "option_id": "1", "option_text": "20" },
+              { "option_id": "2", "option_text": "40" },
+              { "option_id": "3", "option_text": "50" },
+              { "option_id": "4", "option_text": "100" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "6",
+            "question_text": "Solve the equation: 3x + 5 = 14",
+            "options": [
+              { "option_id": "1", "option_text": "x = 3" },
+              { "option_id": "2", "option_text": "x = 4" },
+              { "option_id": "3", "option_text": "x = 5" },
+              { "option_id": "4", "option_text": "x = 9" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "7",
+            "question_text": "What is the value of 7 × 8 - 4 × 5?",
+            "options": [
+              { "option_id": "1", "option_text": "16" },
+              { "option_id": "2", "option_text": "24" },
+              { "option_id": "3", "option_text": "28" },
+              { "option_id": "4", "option_text": "36" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "8",
+            "question_text": "What is the value of (2 + 3) × (4 - 1)?",
+            "options": [
+              { "option_id": "1", "option_text": "10" },
+              { "option_id": "2", "option_text": "15" },
+              { "option_id": "3", "option_text": "20" },
+              { "option_id": "4", "option_text": "25" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "9",
+            "question_text": "Simplify the expression: 4^2 ÷ 4^3",
+            "options": [
+              { "option_id": "1", "option_text": "4^-1" },
+              { "option_id": "2", "option_text": "4^-3" },
+              { "option_id": "3", "option_text": "4^-5" },
+              { "option_id": "4", "option_text": "4^-7" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "10",
+            "question_text": "What is the value of 50% of 80?",
+            "options": [
+              { "option_id": "1", "option_text": "20" },
+              { "option_id": "2", "option_text": "40" },
+              { "option_id": "3", "option_text": "60" },
+              { "option_id": "4", "option_text": "80" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "11",
+            "question_text": "Solve the equation: 2x - 7 = 9",
+            "options": [
+              { "option_id": "1", "option_text": "x = 3" },
+              { "option_id": "2", "option_text": "x = 4" },
+              { "option_id": "3", "option_text": "x = 5" },
+              { "option_id": "4", "option_text": "x = 8" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "12",
+            "question_text": "What is the value of 6 × 7 + 5 × 4?",
+            "options": [
+              { "option_id": "1", "option_text": "42" },
+              { "option_id": "2", "option_text": "47" },
+              { "option_id": "3", "option_text": "58" },
+              { "option_id": "4", "option_text": "62" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "13",
+            "question_text": "Simplify the expression: (3 + 2) × (5 - 2)",
+            "options": [
+              { "option_id": "1", "option_text": "15" },
+              { "option_id": "2", "option_text": "21" },
+              { "option_id": "3", "option_text": "27" },
+              { "option_id": "4", "option_text": "33" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "14",
+            "question_text": "What is the square root of 225?",
+            "options": [
+              { "option_id": "1", "option_text": "15" },
+              { "option_id": "2", "option_text": "20" },
+              { "option_id": "3", "option_text": "25" },
+              { "option_id": "4", "option_text": "30" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "15",
+            "question_text": "Simplify the expression: 3^2 × 3^4",
+            "options": [
+              { "option_id": "1", "option_text": "3^6" },
+              { "option_id": "2", "option_text": "3^7" },
+              { "option_id": "3", "option_text": "3^8" },
+              { "option_id": "4", "option_text": "3^12" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "16",
+            "question_text": "What is the value of 25% of 120?",
+            "options": [
+              { "option_id": "1", "option_text": "20" },
+              { "option_id": "2", "option_text": "30" },
+              { "option_id": "3", "option_text": "60" },
+              { "option_id": "4", "option_text": "120" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "17",
+            "question_text": "Solve the equation: 4x - 3 = 17",
+            "options": [
+              { "option_id": "1", "option_text": "x = 4" },
+              { "option_id": "2", "option_text": "x = 5" },
+              { "option_id": "3", "option_text": "x = 6" },
+              { "option_id": "4", "option_text": "x = 20" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "18",
+            "question_text": "What is the value of 8 × 6 - 3 × 4?",
+            "options": [
+              { "option_id": "1", "option_text": "24" },
+              { "option_id": "2", "option_text": "32" },
+              { "option_id": "3", "option_text": "36" },
+              { "option_id": "4", "option_text": "40" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "19",
+            "question_text": "Simplify the expression: (4 + 2) × (6 - 3)",
+            "options": [
+              { "option_id": "1", "option_text": "18" },
+              { "option_id": "2", "option_text": "24" },
+              { "option_id": "3", "option_text": "30" },
+              { "option_id": "4", "option_text": "36" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "20",
+            "question_text": "What is the value of 75% of 160?",
+            "options": [
+              { "option_id": "1", "option_text": "80" },
+              { "option_id": "2", "option_text": "100" },
+              { "option_id": "3", "option_text": "120" },
+              { "option_id": "4", "option_text": "160" }
+            ],
+            "correct_option_id": "3"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "History",
+        "image_path": "assets/images/history.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "Who was the first President of the United States?",
+            "options": [
+              { "option_id": "1", "option_text": "George Washington" },
+              { "option_id": "2", "option_text": "Thomas Jefferson" },
+              { "option_id": "3", "option_text": "Abraham Lincoln" },
+              { "option_id": "4", "option_text": "John Adams" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "2",
+            "question_text": "What year did the Titanic sink?",
+            "options": [
+              { "option_id": "1", "option_text": "1912" },
+              { "option_id": "2", "option_text": "1914" },
+              { "option_id": "3", "option_text": "1920" },
+              { "option_id": "4", "option_text": "1930" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "3",
+            "question_text": "Which ancient civilization built the pyramids?",
+            "options": [
+              { "option_id": "1", "option_text": "Romans" },
+              { "option_id": "2", "option_text": "Greeks" },
+              { "option_id": "3", "option_text": "Egyptians" },
+              { "option_id": "4", "option_text": "Babylonians" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "4",
+            "question_text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+            "options": [
+              { "option_id": "1", "option_text": "Amelia Earhart" },
+              { "option_id": "2", "option_text": "Bessie Coleman" },
+              { "option_id": "3", "option_text": "Harriet Quimby" },
+              { "option_id": "4", "option_text": "Jacqueline Cochran" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "5",
+            "question_text": "Which war was fought between the North and South regions in the United States?",
+            "options": [
+              { "option_id": "1", "option_text": "World War I" },
+              { "option_id": "2", "option_text": "The Civil War" },
+              { "option_id": "3", "option_text": "The Revolutionary War" },
+              { "option_id": "4", "option_text": "World War II" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "6",
+            "question_text": "What was the primary cause of World War I?",
+            "options": [
+              { "option_id": "1", "option_text": "Economic Rivalry" },
+              { "option_id": "2", "option_text": "Nationalism" },
+              { "option_id": "3", "option_text": "Imperialism" },
+              { "option_id": "4", "option_text": "All of the Above" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "7",
+            "question_text": "Who was the leader of the Soviet Union during World War II?",
+            "options": [
+              { "option_id": "1", "option_text": "Vladimir Lenin" },
+              { "option_id": "2", "option_text": "Joseph Stalin" },
+              { "option_id": "3", "option_text": "Leon Trotsky" },
+              { "option_id": "4", "option_text": "Nikita Khrushchev" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "8",
+            "question_text": "What document declared the American colonies independent from Britain?",
+            "options": [
+              { "option_id": "1", "option_text": "The Constitution" },
+              { "option_id": "2", "option_text": "The Bill of Rights" },
+              {
+                "option_id": "3",
+                "option_text": "The Declaration of Independence"
+              },
+              { "option_id": "4", "option_text": "The Articles of Confederation" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "9",
+            "question_text": "Which empire was ruled by Genghis Khan?",
+            "options": [
+              { "option_id": "1", "option_text": "Ottoman Empire" },
+              { "option_id": "2", "option_text": "Mongol Empire" },
+              { "option_id": "3", "option_text": "Roman Empire" },
+              { "option_id": "4", "option_text": "Byzantine Empire" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "10",
+            "question_text": "In what year did the Berlin Wall fall?",
+            "options": [
+              { "option_id": "1", "option_text": "1987" },
+              { "option_id": "2", "option_text": "1989" },
+              { "option_id": "3", "option_text": "1991" },
+              { "option_id": "4", "option_text": "1993" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "11",
+            "question_text": "Who was the first female Prime Minister of the United Kingdom?",
+            "options": [
+              { "option_id": "1", "option_text": "Margaret Thatcher" },
+              { "option_id": "2", "option_text": "Theresa May" },
+              { "option_id": "3", "option_text": "Angela Merkel" },
+              { "option_id": "4", "option_text": "Indira Gandhi" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "12",
+            "question_text": "What ancient civilization is known for its pyramids and pharaohs?",
+            "options": [
+              { "option_id": "1", "option_text": "Greek" },
+              { "option_id": "2", "option_text": "Egyptian" },
+              { "option_id": "3", "option_text": "Roman" },
+              { "option_id": "4", "option_text": "Mayan" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "13",
+            "question_text": "Which event sparked the start of World War II?",
+            "options": [
+              { "option_id": "1", "option_text": "The Invasion of Poland" },
+              { "option_id": "2", "option_text": "The Attack on Pearl Harbor" },
+              { "option_id": "3", "option_text": "The Treaty of Versailles" },
+              { "option_id": "4", "option_text": "D-Day" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "14",
+            "question_text": "Who was the famous civil rights leader known for his 'I Have a Dream' speech?",
+            "options": [
+              { "option_id": "1", "option_text": "Malcolm X" },
+              { "option_id": "2", "option_text": "Martin Luther King Jr." },
+              { "option_id": "3", "option_text": "Rosa Parks" },
+              { "option_id": "4", "option_text": "Frederick Douglass" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "15",
+            "question_text": "Which country was the first to grant women the right to vote?",
+            "options": [
+              { "option_id": "1", "option_text": "New Zealand" },
+              { "option_id": "2", "option_text": "United States" },
+              { "option_id": "3", "option_text": "United Kingdom" },
+              { "option_id": "4", "option_text": "Australia" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "16",
+            "question_text": "What was the main purpose of the Lewis and Clark expedition?",
+            "options": [
+              {
+                "option_id": "1",
+                "option_text": "To find a route to the Pacific Ocean"
+              },
+              { "option_id": "2", "option_text": "To explore the South" },
+              {
+                "option_id": "3",
+                "option_text": "To establish trade with Native Americans"
+              },
+              {
+                "option_id": "4",
+                "option_text": "To map the eastern United States"
+              }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "17",
+            "question_text": "What was the main cause of the Great Depression?",
+            "options": [
+              { "option_id": "1", "option_text": "Stock Market Crash" },
+              { "option_id": "2", "option_text": "World War I" },
+              { "option_id": "3", "option_text": "Dust Bowl" },
+              { "option_id": "4", "option_text": "Bank Failures" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "18",
+            "question_text": "Which ancient civilization is known for its contributions to philosophy and democracy?",
+            "options": [
+              { "option_id": "1", "option_text": "Egyptian" },
+              { "option_id": "2", "option_text": "Roman" },
+              { "option_id": "3", "option_text": "Greek" },
+              { "option_id": "4", "option_text": "Chinese" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "19",
+            "question_text": "What was the name of the ship that carried the Pilgrims to America?",
+            "options": [
+              { "option_id": "1", "option_text": "The Mayflower" },
+              { "option_id": "2", "option_text": "The Santa Maria" },
+              { "option_id": "3", "option_text": "The Nina" },
+              { "option_id": "4", "option_text": "The Pinta" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "20",
+            "question_text": "Who was the first man to walk on the moon?",
+            "options": [
+              { "option_id": "1", "option_text": "Buzz Aldrin" },
+              { "option_id": "2", "option_text": "Neil Armstrong" },
+              { "option_id": "3", "option_text": "Yuri Gagarin" },
+              { "option_id": "4", "option_text": "John Glenn" }
+            ],
+            "correct_option_id": "2"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Biology",
+        "image_path": "assets/images/biotechnology.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "What is the basic unit of life?",
+            "options": [
+              { "option_id": "1", "option_text": "Atom" },
+              { "option_id": "2", "option_text": "Molecule" },
+              { "option_id": "3", "option_text": "Cell" },
+              { "option_id": "4", "option_text": "Tissue" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "2",
+            "question_text": "What is the process by which plants make their own food?",
+            "options": [
+              { "option_id": "1", "option_text": "Respiration" },
+              { "option_id": "2", "option_text": "Photosynthesis" },
+              { "option_id": "3", "option_text": "Transpiration" },
+              { "option_id": "4", "option_text": "Fermentation" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "3",
+            "question_text": "Which organelle is known as the powerhouse of the cell?",
+            "options": [
+              { "option_id": "1", "option_text": "Nucleus" },
+              { "option_id": "2", "option_text": "Ribosome" },
+              { "option_id": "3", "option_text": "Mitochondria" },
+              { "option_id": "4", "option_text": "Endoplasmic Reticulum" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "4",
+            "question_text": "What is the genetic material in living organisms?",
+            "options": [
+              { "option_id": "1", "option_text": "RNA" },
+              { "option_id": "2", "option_text": "DNA" },
+              { "option_id": "3", "option_text": "Protein" },
+              { "option_id": "4", "option_text": "Carbohydrate" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "5",
+            "question_text": "Which process involves the division of a cell's nucleus?",
+            "options": [
+              { "option_id": "1", "option_text": "Cytokinesis" },
+              { "option_id": "2", "option_text": "Mitosis" },
+              { "option_id": "3", "option_text": "Meiosis" },
+              { "option_id": "4", "option_text": "Fertilization" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "6",
+            "question_text": "What type of bond holds the two strands of DNA together?",
+            "options": [
+              { "option_id": "1", "option_text": "Ionic Bond" },
+              { "option_id": "2", "option_text": "Covalent Bond" },
+              { "option_id": "3", "option_text": "Hydrogen Bond" },
+              { "option_id": "4", "option_text": "Metallic Bond" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "7",
+            "question_text": "What is the main function of red blood cells?",
+            "options": [
+              { "option_id": "1", "option_text": "Fight Infection" },
+              { "option_id": "2", "option_text": "Transport Oxygen" },
+              { "option_id": "3", "option_text": "Clot Blood" },
+              { "option_id": "4", "option_text": "Produce Hormones" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "8",
+            "question_text": "Which of the following is a type of asexual reproduction?",
+            "options": [
+              { "option_id": "1", "option_text": "Budding" },
+              { "option_id": "2", "option_text": "Fertilization" },
+              { "option_id": "3", "option_text": "Pollination" },
+              { "option_id": "4", "option_text": "Cross-Pollination" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "9",
+            "question_text": "What is the primary function of the ribosomes?",
+            "options": [
+              { "option_id": "1", "option_text": "Energy Production" },
+              { "option_id": "2", "option_text": "Protein Synthesis" },
+              { "option_id": "3", "option_text": "DNA Replication" },
+              { "option_id": "4", "option_text": "Cell Division" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "10",
+            "question_text": "Which part of the cell is responsible for controlling what enters and exits the cell?",
+            "options": [
+              { "option_id": "1", "option_text": "Cell Wall" },
+              { "option_id": "2", "option_text": "Cytoplasm" },
+              { "option_id": "3", "option_text": "Cell Membrane" },
+              { "option_id": "4", "option_text": "Nucleus" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "11",
+            "question_text": "What is the term for the variety of life in the world or in a particular habitat?",
+            "options": [
+              { "option_id": "1", "option_text": "Biodiversity" },
+              { "option_id": "2", "option_text": "Ecosystem" },
+              { "option_id": "3", "option_text": "Population" },
+              { "option_id": "4", "option_text": "Community" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "12",
+            "question_text": "What is the primary function of the chloroplasts in plant cells?",
+            "options": [
+              { "option_id": "1", "option_text": "Energy Production" },
+              { "option_id": "2", "option_text": "Photosynthesis" },
+              { "option_id": "3", "option_text": "Respiration" },
+              { "option_id": "4", "option_text": "Cell Division" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "13",
+            "question_text": "Which type of blood vessel carries blood away from the heart?",
+            "options": [
+              { "option_id": "1", "option_text": "Veins" },
+              { "option_id": "2", "option_text": "Capillaries" },
+              { "option_id": "3", "option_text": "Arteries" },
+              { "option_id": "4", "option_text": "Venules" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "14",
+            "question_text": "What is the process by which cells convert glucose into energy?",
+            "options": [
+              { "option_id": "1", "option_text": "Photosynthesis" },
+              { "option_id": "2", "option_text": "Cellular Respiration" },
+              { "option_id": "3", "option_text": "Fermentation" },
+              { "option_id": "4", "option_text": "Transpiration" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "15",
+            "question_text": "Which of the following is a function of the skeletal system?",
+            "options": [
+              { "option_id": "1", "option_text": "Support" },
+              { "option_id": "2", "option_text": "Movement" },
+              { "option_id": "3", "option_text": "Protection" },
+              { "option_id": "4", "option_text": "All of the Above" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "16",
+            "question_text": "What is the term for the movement of water across a semipermeable membrane?",
+            "options": [
+              { "option_id": "1", "option_text": "Diffusion" },
+              { "option_id": "2", "option_text": "Osmosis" },
+              { "option_id": "3", "option_text": "Active Transport" },
+              { "option_id": "4", "option_text": "Facilitated Diffusion" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "17",
+            "question_text": "What is the primary role of enzymes in biological reactions?",
+            "options": [
+              { "option_id": "1", "option_text": "Increase Temperature" },
+              { "option_id": "2", "option_text": "Speed Up Reactions" },
+              { "option_id": "3", "option_text": "Change pH" },
+              { "option_id": "4", "option_text": "Provide Energy" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "18",
+            "question_text": "Which type of RNA carries amino acids to the ribosome?",
+            "options": [
+              { "option_id": "1", "option_text": "mRNA" },
+              { "option_id": "2", "option_text": "tRNA" },
+              { "option_id": "3", "option_text": "rRNA" },
+              { "option_id": "4", "option_text": "sRNA" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "19",
+            "question_text": "What is the function of the immune system?",
+            "options": [
+              { "option_id": "1", "option_text": "Transport Nutrients" },
+              { "option_id": "2", "option_text": "Fight Infections" },
+              { "option_id": "3", "option_text": "Regulate Temperature" },
+              { "option_id": "4", "option_text": "Produce Hormones" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "20",
+            "question_text": "What is the term for a group of similar cells that perform a specific function?",
+            "options": [
+              { "option_id": "1", "option_text": "Tissue" },
+              { "option_id": "2", "option_text": "Organ" },
+              { "option_id": "3", "option_text": "System" },
+              { "option_id": "4", "option_text": "Organism" }
+            ],
+            "correct_option_id": "1"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Geography",
+        "image_path": "assets/images/geography.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "What is the capital of France?",
+            "options": [
+              { "option_id": "1", "option_text": "Berlin" },
+              { "option_id": "2", "option_text": "Madrid" },
+              { "option_id": "3", "option_text": "Paris" },
+              { "option_id": "4", "option_text": "Rome" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "2",
+            "question_text": "Which river is the longest in the world?",
+            "options": [
+              { "option_id": "1", "option_text": "Amazon River" },
+              { "option_id": "2", "option_text": "Nile River" },
+              { "option_id": "3", "option_text": "Yangtze River" },
+              { "option_id": "4", "option_text": "Mississippi River" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "3",
+            "question_text": "Which continent is known as the 'Dark Continent'?",
+            "options": [
+              { "option_id": "1", "option_text": "Asia" },
+              { "option_id": "2", "option_text": "Africa" },
+              { "option_id": "3", "option_text": "South America" },
+              { "option_id": "4", "option_text": "Australia" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "4",
+            "question_text": "What is the largest ocean on Earth?",
+            "options": [
+              { "option_id": "1", "option_text": "Atlantic Ocean" },
+              { "option_id": "2", "option_text": "Indian Ocean" },
+              { "option_id": "3", "option_text": "Arctic Ocean" },
+              { "option_id": "4", "option_text": "Pacific Ocean" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "5",
+            "question_text": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+              { "option_id": "1", "option_text": "China" },
+              { "option_id": "2", "option_text": "Japan" },
+              { "option_id": "3", "option_text": "Thailand" },
+              { "option_id": "4", "option_text": "South Korea" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "6",
+            "question_text": "What is the smallest country in the world?",
+            "options": [
+              { "option_id": "1", "option_text": "Monaco" },
+              { "option_id": "2", "option_text": "Malta" },
+              { "option_id": "3", "option_text": "Vatican City" },
+              { "option_id": "4", "option_text": "San Marino" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "7",
+            "question_text": "Which mountain range separates Europe and Asia?",
+            "options": [
+              { "option_id": "1", "option_text": "Andes" },
+              { "option_id": "2", "option_text": "Himalayas" },
+              { "option_id": "3", "option_text": "Ural Mountains" },
+              { "option_id": "4", "option_text": "Rocky Mountains" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "8",
+            "question_text": "What is the capital city of Australia?",
+            "options": [
+              { "option_id": "1", "option_text": "Sydney" },
+              { "option_id": "2", "option_text": "Melbourne" },
+              { "option_id": "3", "option_text": "Canberra" },
+              { "option_id": "4", "option_text": "Brisbane" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "9",
+            "question_text": "Which desert is the largest in the world?",
+            "options": [
+              { "option_id": "1", "option_text": "Sahara Desert" },
+              { "option_id": "2", "option_text": "Arabian Desert" },
+              { "option_id": "3", "option_text": "Gobi Desert" },
+              { "option_id": "4", "option_text": "Kalahari Desert" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "10",
+            "question_text": "Which country has the most natural lakes?",
+            "options": [
+              { "option_id": "1", "option_text": "Canada" },
+              { "option_id": "2", "option_text": "Russia" },
+              { "option_id": "3", "option_text": "United States" },
+              { "option_id": "4", "option_text": "Brazil" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "11",
+            "question_text": "What is the longest river in South America?",
+            "options": [
+              { "option_id": "1", "option_text": "Amazon River" },
+              { "option_id": "2", "option_text": "Paraná River" },
+              { "option_id": "3", "option_text": "Orinoco River" },
+              { "option_id": "4", "option_text": "São Francisco River" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "12",
+            "question_text": "Which continent is known as the 'Frozen Continent'?",
+            "options": [
+              { "option_id": "1", "option_text": "Antarctica" },
+              { "option_id": "2", "option_text": "North America" },
+              { "option_id": "3", "option_text": "Europe" },
+              { "option_id": "4", "option_text": "Asia" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "13",
+            "question_text": "What is the capital of Egypt?",
+            "options": [
+              { "option_id": "1", "option_text": "Cairo" },
+              { "option_id": "2", "option_text": "Alexandria" },
+              { "option_id": "3", "option_text": "Giza" },
+              { "option_id": "4", "option_text": "Luxor" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "14",
+            "question_text": "Which country is the largest by land area?",
+            "options": [
+              { "option_id": "1", "option_text": "China" },
+              { "option_id": "2", "option_text": "United States" },
+              { "option_id": "3", "option_text": "Canada" },
+              { "option_id": "4", "option_text": "Russia" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "15",
+            "question_text": "Which is the smallest continent by land area?",
+            "options": [
+              { "option_id": "1", "option_text": "Europe" },
+              { "option_id": "2", "option_text": "Australia" },
+              { "option_id": "3", "option_text": "Antarctica" },
+              { "option_id": "4", "option_text": "South America" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "16",
+            "question_text": "What is the capital of Italy?",
+            "options": [
+              { "option_id": "1", "option_text": "Venice" },
+              { "option_id": "2", "option_text": "Milan" },
+              { "option_id": "3", "option_text": "Rome" },
+              { "option_id": "4", "option_text": "Florence" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "17",
+            "question_text": "Which mountain is the highest in the world?",
+            "options": [
+              { "option_id": "1", "option_text": "K2" },
+              { "option_id": "2", "option_text": "Kangchenjunga" },
+              { "option_id": "3", "option_text": "Mount Everest" },
+              { "option_id": "4", "option_text": "Lhotse" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "18",
+            "question_text": "Which country is known for the Great Barrier Reef?",
+            "options": [
+              { "option_id": "1", "option_text": "Australia" },
+              { "option_id": "2", "option_text": "United States" },
+              { "option_id": "3", "option_text": "Mexico" },
+              { "option_id": "4", "option_text": "Brazil" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "19",
+            "question_text": "What is the capital of Canada?",
+            "options": [
+              { "option_id": "1", "option_text": "Toronto" },
+              { "option_id": "2", "option_text": "Vancouver" },
+              { "option_id": "3", "option_text": "Ottawa" },
+              { "option_id": "4", "option_text": "Montreal" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "20",
+            "question_text": "Which country is home to the ancient city of Petra?",
+            "options": [
+              { "option_id": "1", "option_text": "Egypt" },
+              { "option_id": "2", "option_text": "Jordan" },
+              { "option_id": "3", "option_text": "Turkey" },
+              { "option_id": "4", "option_text": "Greece" }
+            ],
+            "correct_option_id": "2"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Computer",
+        "image_path": "assets/images/computer.svg",
+        "questions": [
+          {
+            "question_id": "1",
+            "question_text": "What does CPU stand for?",
+            "options": [
+              { "option_id": "1", "option_text": "Central Processing Unit" },
+              { "option_id": "2", "option_text": "Computer Personal Unit" },
+              { "option_id": "3", "option_text": "Central Programming Unit" },
+              { "option_id": "4", "option_text": "Computer Processing Unit" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "2",
+            "question_text": "Which of the following is an operating system?",
+            "options": [
+              { "option_id": "1", "option_text": "Microsoft Word" },
+              { "option_id": "2", "option_text": "Windows" },
+              { "option_id": "3", "option_text": "Google Chrome" },
+              { "option_id": "4", "option_text": "Adobe Photoshop" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "3",
+            "question_text": "What does RAM stand for?",
+            "options": [
+              { "option_id": "1", "option_text": "Read Access Memory" },
+              { "option_id": "2", "option_text": "Random Access Memory" },
+              { "option_id": "3", "option_text": "Read And Memory" },
+              { "option_id": "4", "option_text": "Rapid Access Memory" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "4",
+            "question_text": "Which component is considered the brain of the computer?",
+            "options": [
+              { "option_id": "1", "option_text": "Motherboard" },
+              { "option_id": "2", "option_text": "Hard Drive" },
+              { "option_id": "3", "option_text": "CPU" },
+              { "option_id": "4", "option_text": "RAM" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "5",
+            "question_text": "What is the primary function of an operating system?",
+            "options": [
+              {
+                "option_id": "1",
+                "option_text": "Manage hardware and software resources"
+              },
+              { "option_id": "2", "option_text": "Create documents" },
+              { "option_id": "3", "option_text": "Browse the internet" },
+              { "option_id": "4", "option_text": "Play games" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "6",
+            "question_text": "Which of the following is a programming language?",
+            "options": [
+              { "option_id": "1", "option_text": "HTML" },
+              { "option_id": "2", "option_text": "CSS" },
+              { "option_id": "3", "option_text": "Python" },
+              { "option_id": "4", "option_text": "All of the above" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "7",
+            "question_text": "What is the main purpose of a firewall?",
+            "options": [
+              { "option_id": "1", "option_text": "To speed up the internet" },
+              {
+                "option_id": "2",
+                "option_text": "To protect the network from unauthorized access"
+              },
+              { "option_id": "3", "option_text": "To store files" },
+              { "option_id": "4", "option_text": "To manage system resources" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "8",
+            "question_text": "Which device is used to input data into a computer?",
+            "options": [
+              { "option_id": "1", "option_text": "Monitor" },
+              { "option_id": "2", "option_text": "Printer" },
+              { "option_id": "3", "option_text": "Keyboard" },
+              { "option_id": "4", "option_text": "Speaker" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "9",
+            "question_text": "What does the term 'phishing' refer to?",
+            "options": [
+              { "option_id": "1", "option_text": "A method of fishing" },
+              { "option_id": "2", "option_text": "A type of malware" },
+              {
+                "option_id": "3",
+                "option_text": "An attempt to obtain sensitive information by deception"
+              },
+              { "option_id": "4", "option_text": "A computer virus" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "10",
+            "question_text": "What is the function of a hard drive?",
+            "options": [
+              { "option_id": "1", "option_text": "To process data" },
+              { "option_id": "2", "option_text": "To store data" },
+              { "option_id": "3", "option_text": "To display data" },
+              { "option_id": "4", "option_text": "To input data" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "11",
+            "question_text": "Which of the following is an example of an output device?",
+            "options": [
+              { "option_id": "1", "option_text": "Scanner" },
+              { "option_id": "2", "option_text": "Microphone" },
+              { "option_id": "3", "option_text": "Monitor" },
+              { "option_id": "4", "option_text": "Keyboard" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "12",
+            "question_text": "What does the acronym 'URL' stand for?",
+            "options": [
+              { "option_id": "1", "option_text": "Uniform Resource Locator" },
+              { "option_id": "2", "option_text": "Universal Resource Link" },
+              { "option_id": "3", "option_text": "Uniform Resource Link" },
+              { "option_id": "4", "option_text": "Universal Resource Locator" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "13",
+            "question_text": "What is the purpose of an antivirus program?",
+            "options": [
+              { "option_id": "1", "option_text": "To enhance computer speed" },
+              {
+                "option_id": "2",
+                "option_text": "To protect against malware and viruses"
+              },
+              { "option_id": "3", "option_text": "To manage files" },
+              { "option_id": "4", "option_text": "To optimize hard drive space" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "14",
+            "question_text": "Which protocol is used for sending emails?",
+            "options": [
+              { "option_id": "1", "option_text": "HTTP" },
+              { "option_id": "2", "option_text": "FTP" },
+              { "option_id": "3", "option_text": "SMTP" },
+              { "option_id": "4", "option_text": "POP3" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "15",
+            "question_text": "What is the function of a web browser?",
+            "options": [
+              { "option_id": "1", "option_text": "To create documents" },
+              { "option_id": "2", "option_text": "To access and view websites" },
+              { "option_id": "3", "option_text": "To send emails" },
+              { "option_id": "4", "option_text": "To manage files" }
+            ],
+            "correct_option_id": "2"
+          },
+          {
+            "question_id": "16",
+            "question_text": "What does 'GUI' stand for in computing?",
+            "options": [
+              { "option_id": "1", "option_text": "Graphical User Interface" },
+              { "option_id": "2", "option_text": "General User Interface" },
+              {
+                "option_id": "3",
+                "option_text": "Graphical Universal Interface"
+              },
+              { "option_id": "4", "option_text": "General Universal Interface" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "17",
+            "question_text": "Which of the following is a type of computer network?",
+            "options": [
+              { "option_id": "1", "option_text": "LAN" },
+              { "option_id": "2", "option_text": "WAN" },
+              { "option_id": "3", "option_text": "MAN" },
+              { "option_id": "4", "option_text": "All of the above" }
+            ],
+            "correct_option_id": "4"
+          },
+          {
+            "question_id": "18",
+            "question_text": "What is the primary function of a router?",
+            "options": [
+              { "option_id": "1", "option_text": "To connect multiple networks" },
+              { "option_id": "2", "option_text": "To store data" },
+              {
+                "option_id": "3",
+                "option_text": "To enhance computer performance"
+              },
+              { "option_id": "4", "option_text": "To display images" }
+            ],
+            "correct_option_id": "1"
+          },
+          {
+            "question_id": "19",
+            "question_text": "Which of the following is NOT a programming language?",
+            "options": [
+              { "option_id": "1", "option_text": "Java" },
+              { "option_id": "2", "option_text": "Python" },
+              { "option_id": "3", "option_text": "HTML" },
+              { "option_id": "4", "option_text": "C++" }
+            ],
+            "correct_option_id": "3"
+          },
+          {
+            "question_id": "20",
+            "question_text": "What is cloud computing?",
+            "options": [
+              {
+                "option_id": "1",
+                "option_text": "Storing and accessing data over the internet"
+              },
+              {
+                "option_id": "2",
+                "option_text": "Storing data on a local hard drive"
+              },
+              {
+                "option_id": "3",
+                "option_text": "Using a computer without an internet connection"
+              },
+              { "option_id": "4", "option_text": "None of the above" }
+            ],
+            "correct_option_id": "1"
+          }
+        ]
+      }
+    ]
+  }
